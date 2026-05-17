@@ -1,0 +1,14 @@
+D:\porjectsC\CSharp\StarWars_API\bin\Debug\net10.0\StarWars_API.exe
+D:\porjectsC\CSharp\StarWars_API\bin\Debug\net10.0\StarWars_API.deps.json
+D:\porjectsC\CSharp\StarWars_API\bin\Debug\net10.0\StarWars_API.runtimeconfig.json
+D:\porjectsC\CSharp\StarWars_API\bin\Debug\net10.0\StarWars_API.dll
+D:\porjectsC\CSharp\StarWars_API\bin\Debug\net10.0\StarWars_API.pdb
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.AssemblyInfoInputs.cache
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.AssemblyInfo.cs
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.csproj.CoreCompileInputs.cache
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.dll
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\refint\StarWars_API.dll
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.pdb
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\StarWars_API.genruntimeconfig.cache
+D:\porjectsC\CSharp\StarWars_API\obj\Debug\net10.0\ref\StarWars_API.dll
