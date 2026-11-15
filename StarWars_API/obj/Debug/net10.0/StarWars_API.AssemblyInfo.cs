@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarWars_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e18529e57ce865057c0b48a487e8020677f6588f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01eb99fac05f58836fc277919110ac0fe41885e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarWars_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarWars_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
